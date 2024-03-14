@@ -1,2 +1,3 @@
 # ecart
-First git repo
+First git repo.
+Author-Lokesh Khatri
